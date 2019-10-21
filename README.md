@@ -1,4 +1,4 @@
-# Martin
+# Marti
 
 [![CI](https://github.com/urbica/martin/workflows/CI/badge.svg)](https://github.com/urbica/martin/actions)
 [![Docker pulls](https://img.shields.io/docker/pulls/urbica/martin.svg)](https://hub.docker.com/r/urbica/martin)
